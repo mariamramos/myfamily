@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+body
+{
+    background-image: linear-gradient(to right, #a0cab5, #f1edd0);
+    color: black;
+    font-size: 12pts;
+    font-family: arial;
+    text-align: center;
+    text-decoration: none;
+    margin: none;
+}
+
+h1
+{
+    color:#333534;
+    font-size: 30pt;
+    font-family: arial;
+    text-align:center;
+}
+
+h2
+{
+    color: rgb(75, 73, 73);
+    font-size: 25pt;
+    font-family: arial;
+    text-align:left
+}
+
+h3
+{
+    color:black;
+    font-size: 30pt;
+    font-family: arial;
+}
+
+a
+{
+    color:blue;
+    text-decoration: none;
+}
+
+.par
+{
+    color:blue;
+    font-size: 20pt;
+    font-family: Verdana;
+}
+
+.impar
+{
+    color:red;
+    font-size: 16pt;
+    font-family: Arial;
+}
