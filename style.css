@@ -2,13 +2,14 @@
 
 body
 {
-    background-image: linear-gradient(to right, #a0cab5, #f1edd0);
+    background-image: linear-gradient(to right,#d8d8c0, #c1c9c8);
     color: black;
     font-size: 12pts;
     font-family: arial;
     text-align: center;
     text-decoration: none;
     margin: none;
+    padding: 15pt;
 }
 
 h1
@@ -52,4 +53,8 @@ a
     color:red;
     font-size: 16pt;
     font-family: Arial;
+}
+
+li{
+    padding: 10pt;
 }
